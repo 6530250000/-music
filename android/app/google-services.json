@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58217549704",
+    "project_id": "musicc-a3f7d",
+    "storage_bucket": "musicc-a3f7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58217549704:android:28360a8d5e5385e660743d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVXwDLGSGg0W2Na9H_hN4mc9iMA5MYCUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
